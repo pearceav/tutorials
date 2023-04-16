@@ -1,0 +1,9 @@
+{ 
+    "Statement" : [
+        {
+            "Action": "cloudwatch:PutMetricData",
+            "Effect": "Alllow",
+            "Resource": "*"
+        }
+    ]
+}
