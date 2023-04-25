@@ -1,3 +1,3 @@
 # tutorials
 
-This holds my demo code for tutorial videos
+This holds my demo code for tutorial videos.
