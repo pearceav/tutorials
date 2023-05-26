@@ -1,7 +1,7 @@
 #!/bin/bash
 # Curl command to slack and teams tutorial
 
-WEBHOOK_URL=https://hooks.slack.com/services/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
+WEBHOOK_URL=<insert your URL here>
 payload="This is important... I found the hidden treasure!!!"
 
 # Loop through files and run things/ look for stuff
